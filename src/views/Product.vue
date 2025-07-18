@@ -3,7 +3,7 @@
  * @Autor: lin
  * @Date: 2025-04-22 09:29:34
  * @LastEditors: lin
- * @LastEditTime: 2025-07-18 14:31:51
+ * @LastEditTime: 2025-07-18 15:23:57
 -->
 <template>
   <div class="to-cyan-500 min-h-screen text-white" style="background: #4961F0;">
@@ -21,7 +21,7 @@
       <div class="w-100%" style="margin: 20px auto; max-width: 500px;">
         <n-carousel :autoplay="true">
           <!-- <img src="@/assets/1.jpg" width="100%" class="inline-block rounded-xl"/> -->
-          <img src="@/assets/2.jpg" width="100%" class="inline-block rounded-xl"/>
+          <img src="@/assets/2.png" width="100%" class="inline-block rounded-xl"/>
           <img src="@/assets/3.png" width="100%" class="inline-block rounded-xl"/>
         </n-carousel>
       </div>
