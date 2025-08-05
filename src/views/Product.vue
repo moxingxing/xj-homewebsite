@@ -9,14 +9,14 @@
   <div class="to-cyan-500 min-h-screen text-white" style="background: #4961F0;">
     <header class="text-center py-12">
       <!-- <img src="@/assets/logo.png" alt="迅拣" class="mx-auto inline-block w-32 h-32 rounded-xl shadow-lg" /> -->
-      <h1 class="text-3xl font-bold mt-4 bigTittle">FastPick</h1>
+      <h1 class="text-3xl font-bold mt-4 bigTittle">FAST PICK</h1>
       <p class="text-xl mt-2">Live-stream Shopping Express Sorter Assistant</p>
     </header>
 
     <section class="section px-4 w-4/5 ">
       <h2 class="bigTittle">App Introduction</h2>
       <div class="w-100% leading-[2] declear text-[#fff] text-1xl">
-        FastPick - A specialized utility App designed for live-stream commerce on platforms like TikTok and Red Velvet. By instantly syncing with merchant backend systems, it generates Bluetooth-printed buyer IDs to enable rapid, error-free order sorting. Drastically accelerates fulfillment efficiency for live-selling operations.
+        FAST PICK - A specialized utility App designed for live-stream commerce on platforms like TikTok and Red Velvet. By instantly syncing with merchant backend systems, it generates Bluetooth-printed buyer IDs to enable rapid, error-free order sorting. Drastically accelerates fulfillment efficiency for live-selling operations.
       </div>
       <div class="w-100%" style="margin: 20px auto; max-width: 500px;">
         <n-carousel :autoplay="true">
@@ -46,15 +46,15 @@
     </section>
     <section class="mx-auto px-4 mt-10">
         <div class="text-center rounded-xl shadow-md p-6 text-white">
-          <p class="mb-4">Scan the QR code or click the button below to download FastPick.</p>
-          <img src="@/assets/qrcode.png" alt="下载二维码" class="w-40 h-40 inline-block mb-4" />
-          <a href="https://mp-6e4ba07a-f05f-4c88-bf57-25f05c7a03a0.cdn.bspapp.com/cloudstorage/6c2dcb6a-515f-4553-b8b2-ecc360e1f3f0.apk" style="margin: 10px auto;" class="block w-40 text-center bg-white text-blue-600 font-semibold rounded-lg py-2">
+          <p class="mb-4">Scan the QR code or click the button below to download FAST PICK.</p>
+          <!-- <img src="@/assets/qrcode.png" alt="下载二维码" class="w-40 h-40 inline-block mb-4" /> -->
+          <a href="https://mp-6e4ba07a-f05f-4c88-bf57-25f05c7a03a0.cdn.bspapp.com/cloudstorage/93803841-2c86-41e7-9433-f6cc1fb05752.apk" style="margin: 10px auto;" class="block w-40 text-center bg-white text-blue-600 font-semibold rounded-lg py-2">
             Download
           </a>
         </div>
     </section>
     <footer class="text-center py-8 text-sm opacity-75">
-      <div>Email - <a href="mailto:dh_technology@163.com">dh_technology@163.com</a></div>
+      <div>Email - <a href="mailto:dh_technology@163.com">wayvance.info@gmail.com</a></div>
       <!-- <div class="w-[210px] flex justify-between" style="margin: 5px auto;">
         <img src="@/assets/z.png"  width="100" height="100"/>
         <img src="@/assets/y.png"  width="100" height="100"/>
