@@ -3,7 +3,7 @@
  * @Autor: lin
  * @Date: 2025-04-22 09:29:34
  * @LastEditors: lin
- * @LastEditTime: 2025-07-10 15:36:09
+ * @LastEditTime: 2025-09-30 09:12:26
 -->
 <template>
   <div class="to-cyan-500 min-h-screen text-white" style="background: #4961F0;">
@@ -48,7 +48,7 @@
         <div class="text-center rounded-xl shadow-md p-6 text-white">
           <p class="mb-4">扫描二维码或点击下方按钮下载使用迅拣。</p>
           <img src="@/assets/qrcode.png" alt="下载二维码" class="w-40 h-40 inline-block mb-4" />
-          <a href="https://mp-6e4ba07a-f05f-4c88-bf57-25f05c7a03a0.cdn.bspapp.com/cloudstorage/d57fa830-cc06-44af-bbfd-1c5359e0db32.apk" style="margin: 10px auto;" class="block w-40 text-center bg-white text-blue-600 font-semibold rounded-lg py-2">
+          <a href="https://mp-6e4ba07a-f05f-4c88-bf57-25f05c7a03a0.cdn.bspapp.com/cloudstorage/923243e9-84d9-4a1f-baf9-88205a401814.apk" style="margin: 10px auto;" class="block w-40 text-center bg-white text-blue-600 font-semibold rounded-lg py-2">
             立即下载
           </a>
         </div>
@@ -65,7 +65,7 @@
     </footer>
   </div>
 </template>
-
+t
 <script>
 import { NCarousel, NDivider } from 'naive-ui'
 export default {
