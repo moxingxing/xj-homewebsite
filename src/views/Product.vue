@@ -3,7 +3,7 @@
  * @Autor: lin
  * @Date: 2025-04-22 09:29:34
  * @LastEditors: lin
- * @LastEditTime: 2025-11-04 09:59:30
+ * @LastEditTime: 2025-12-16 10:45:09
 -->
 <template>
   <div class="to-cyan-500 min-h-screen text-white" style="background: #4961F0;">
@@ -48,7 +48,7 @@
         <div class="text-center rounded-xl shadow-md p-6 text-white">
           <p class="mb-4">扫描二维码或点击下方按钮下载使用迅拣。</p>
           <img src="@/assets/qrcode.png" alt="下载二维码" class="w-40 h-40 inline-block mb-4" />
-          <a href="https://mp-6e4ba07a-f05f-4c88-bf57-25f05c7a03a0.cdn.bspapp.com/cloudstorage/ada43825-80e8-4789-85ba-cc680b775afc.apk" style="margin: 10px auto;" class="block w-40 text-center bg-white text-blue-600 font-semibold rounded-lg py-2">
+          <a href="https://mp-6e4ba07a-f05f-4c88-bf57-25f05c7a03a0.cdn.bspapp.com/cloudstorage/96c46850-aefc-4014-bb92-0e68fe339932.apk" style="margin: 10px auto;" class="block w-40 text-center bg-white text-blue-600 font-semibold rounded-lg py-2">
             立即下载
           </a>
         </div>
