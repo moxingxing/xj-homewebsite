@@ -3,20 +3,20 @@
  * @Autor: lin
  * @Date: 2025-04-22 09:29:34
  * @LastEditors: lin
- * @LastEditTime: 2026-01-28 17:54:35
+ * @LastEditTime: 2026-01-29 09:40:19
 -->
 <template>
   <div class="to-cyan-500 min-h-screen text-white" style="background: #4961F0;">
     <header class="text-center py-12">
       <!-- <img src="@/assets/logo.png" alt="迅拣" class="mx-auto inline-block w-32 h-32 rounded-xl shadow-lg" /> -->
-      <h1 class="text-3xl font-bold mt-4 bigTittle">FAST PICK</h1>
+      <h1 class="text-3xl font-bold mt-4 bigTittle">LIVTAG</h1>
       <p class="text-xl mt-2">Live-stream Shopping Express Sorter Assistant</p>
     </header>
 
     <section class="section px-4 w-4/5 ">
       <h2 class="bigTittle">App Introduction</h2>
       <div class="w-100% leading-[2] declear text-[#fff] text-1xl">
-        FAST PICK - A specialized utility App designed for live-stream commerce on platforms like TikTok and Red Velvet. By instantly syncing with merchant backend systems, it generates Bluetooth-printed buyer IDs to enable rapid, error-free order sorting. Drastically accelerates fulfillment efficiency for live-selling operations.
+        LIVTAG - A specialized utility App designed for live-stream commerce on platforms like TikTok and Red Velvet. By instantly syncing with merchant backend systems, it generates Bluetooth-printed buyer IDs to enable rapid, error-free order sorting. Drastically accelerates fulfillment efficiency for live-selling operations.
       </div>
       <div class="w-100%" style="margin: 20px auto; max-width: 500px;">
         <n-carousel :autoplay="true">
@@ -46,9 +46,9 @@
     </section>
     <section class="mx-auto px-4 mt-10">
         <div class="text-center rounded-xl shadow-md p-6 text-white">
-          <p class="mb-4">Scan the QR code or click the button below to download FAST PICK.</p>
+          <p class="mb-4">Scan the QR code or click the button below to download LIVTAG.</p>
           <img src="@/assets/qrcode.png" alt="下载二维码" class="w-40 h-40 inline-block mb-4" />
-          <a href="https://mp-6e4ba07a-f05f-4c88-bf57-25f05c7a03a0.cdn.bspapp.com/cloudstorage/9493c614-f4d0-4b19-8623-53a67f1350f1.apk" style="margin: 10px auto;" class="block w-40 text-center bg-white text-blue-600 font-semibold rounded-lg py-2">
+          <a href="https://mp-6e4ba07a-f05f-4c88-bf57-25f05c7a03a0.cdn.bspapp.com/cloudstorage/4afde791-9c6d-4f45-bef4-5fa03568338c.apk" style="margin: 10px auto;" class="block w-40 text-center bg-white text-blue-600 font-semibold rounded-lg py-2">
             Download
           </a>
         </div>
