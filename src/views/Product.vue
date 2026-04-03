@@ -3,7 +3,7 @@
  * @Autor: lin
  * @Date: 2025-04-22 09:29:34
  * @LastEditors: lin
- * @LastEditTime: 2026-01-29 09:40:19
+ * @LastEditTime: 2026-04-03 19:12:43
 -->
 <template>
   <div class="to-cyan-500 min-h-screen text-white" style="background: #4961F0;">
@@ -48,7 +48,7 @@
         <div class="text-center rounded-xl shadow-md p-6 text-white">
           <p class="mb-4">Scan the QR code or click the button below to download LIVTAG.</p>
           <img src="@/assets/qrcode.png" alt="下载二维码" class="w-40 h-40 inline-block mb-4" />
-          <a href="https://mp-6e4ba07a-f05f-4c88-bf57-25f05c7a03a0.cdn.bspapp.com/cloudstorage/4afde791-9c6d-4f45-bef4-5fa03568338c.apk" style="margin: 10px auto;" class="block w-40 text-center bg-white text-blue-600 font-semibold rounded-lg py-2">
+          <a href="https://mp-6e4ba07a-f05f-4c88-bf57-25f05c7a03a0.cdn.bspapp.com/cloudstorage/53781da6-f6bb-4d2f-ba42-e83ca52240be.apk" style="margin: 10px auto;" class="block w-40 text-center bg-white text-blue-600 font-semibold rounded-lg py-2">
             Download
           </a>
         </div>
